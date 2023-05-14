@@ -49,9 +49,3 @@ To run the application, follow these steps:
 ## License
 
 This project is licensed under the MIT License. Please refer to the `LICENSE` file for more information.
-
-## Acknowledgments
-
-- This application was developed as a learning exercise and is not intended for production use.
-- The game logic and structure were inspired by various online poker game implementations.
-- Thanks to the open-source community for providing valuable resources and tools.
