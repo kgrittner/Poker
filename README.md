@@ -2,7 +2,14 @@
 
 ## Description
 
-This is a simple console-based poker game application. The program allows you to play poker against computer players in a text-based interface.
+This is a simple console-based poker game application using 3 cards and modified win position. 
+Win Position are as follows:
+1) Straight Flush
+2) Three Of A Kind
+3) Straight
+4) Flush
+5) Pair
+6) High Card
 
 ## Installation
 
@@ -29,21 +36,7 @@ private readonly static string BasePath = "YOUR_BASE_PATH"; // Example @"C:\User
 
 To run the application, follow these steps:
 
-1. Open a command prompt or terminal window.
-2. Navigate to the project directory.
-3. Run the following command to build the application:
-
-```shell
-dotnet build
-```
-
-4. After a successful build, run the following command to start the application:
-
-```shell
-dotnet run
-```
-
-5. The application will start, and you can follow the on-screen instructions to play the poker game.
+1. Open the application and press start or F5
 
 ## Troubleshooting
 
