@@ -12,11 +12,6 @@ namespace poker
     class Program
     {
         private readonly static string BasePath = @"C:\Users\karlg\Downloads\CodeTest2\poker\Tests";
-        private readonly static string FileName = @"Test2.tst";
-        protected static string FilePath
-        {
-            get { return Path.Combine(BasePath, FileName); }
-        }
 
         static void Main(string[] args)
         {
